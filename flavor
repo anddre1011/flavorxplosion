@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flavor Xplosion - Cápsulas de Sabores</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Flavor Xplosion</h1>
+        <p>Tu fuente de cápsulas de sabores explosivos para cigarrillos</p>
+    </header>
+    <section id="sabores">
+        <h2>Sabores Disponibles</h2>
+        <ul>
+            <li>Menta</li>
+            <li>Cereza</li>
+            <li>Vainilla</li>
+            <!-- Agrega más sabores aquí -->
+        </ul>
+    </section>
+    <section id="beneficios">
+        <h2>Beneficios</h2>
+        <p>Las cápsulas de sabores de Flavor Xplosion ofrecen:</p>
+        <ul>
+            <li>Sabor intenso y duradero</li>
+            <li>Fácil de usar con dispensadores</li>
+            <li>Variedad de opciones de sabores</li>
+        </ul>
+    </section>
+    <section id="puntos-de-venta">
+        <h2>Puntos de Venta</h2>
+        <p>Puedes encontrar nuestros productos en los siguientes lugares:</p>
+        <ul>
+            <li>Tiendas de tabaco locales</li>
+            <li>En línea en nuestro sitio web</li>
+            <!-- Agrega más puntos de venta aquí -->
+        </ul>
+    </section>
+    <section id="formulario">
+        <h2>Obtén Más Información</h2>
+        <p>Deja tu correo electrónico o número de teléfono para recibir actualizaciones y promociones:</p>
+        <form action="#">
+            <input type="text" placeholder="Correo Electrónico" required>
+            <input type="text" placeholder="Número de Teléfono" required>
+            <button type="submit">¡Obtén Sabores Explotivos!</button>
+        </form>
+    </section>
+    <footer>
+        <p>Contáctanos:</p>
+        <p>Correo Electrónico: <a href="mailto:flavorxplosion@gmail.com">flavorxplosion@gmail.com</a></p>
+        <p>Instagram: <a href="https://www.instagram.com/flavor_xplosion/">@flavor_xplosion</a></p>
+        <p>Número de WhatsApp: <a href="tel:75919154">75919154</a></p>
+    </footer>
+</body>
+</html>
